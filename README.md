@@ -7,8 +7,8 @@
 <a href="https://linkedin.com/in/nadeeja dhananjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadeeja dhananjana" height="30" width="40" /></a>
 <a href="https://fb.com/nadeeja dhananjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadeeja dhananjana" height="30" width="40" /></a>
 <a href="https://instagram.com/nadeeja.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadeeja.dev" height="30" width="40" /></a>
-<a href="https://dribbble.com/nadeeja dhananjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nadeeja dhananjana" height="30" width="40" /></a>
-<a href="https://www.behance.net/nadeeja dhananjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nadeeja dhananjana" height="30" width="40" /></a>
+<a href="https://dribbble.com/NadeejaDhananjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nadeeja dhananjana" height="30" width="40" /></a>
+<a href="https://www.behance.net/nadeejadhananj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nadeeja dhananjana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
