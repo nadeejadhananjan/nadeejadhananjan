@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadeeja Dhananjana</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A full-stack developer & UI/UX designer from Sri Lanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
